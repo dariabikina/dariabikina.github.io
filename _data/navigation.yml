@@ -3,8 +3,11 @@ main:
   - title: "Research"
     url: /talks/
 #
-#  - title: "CV"
-#    url: /cv/
+  - title: "CV"
+     url: /cv/
+     
+  - title: "Teaching"
+      url: /teaching/
 
 # - title: "Blog Posts"
 #   url: /year-archive/
