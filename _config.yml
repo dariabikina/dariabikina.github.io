@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daria Bikina, linguist"
+title                    : "Daria Bikina"
 title_separator          : "-"
 name                     : &name "Daria Bikina"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Daria Bikina"
   avatar           : "main.png"
-  bio              : "Linguist"
+  bio              : "M.A. in Linguistics; PhD student at Harvard University"
   location         : "Boston, MA"
   employer         :
   email            : "dbikina at g dot harvard dot edu"
@@ -95,7 +95,7 @@ author:
   foursquare       :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "amour_abajour"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
