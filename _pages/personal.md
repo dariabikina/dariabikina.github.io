@@ -1,7 +1,9 @@
+---
 layout: page
 title: "Personal"
 permalink: /personal/
 author_profile: true
+---
 
 Although I am Russian by citizenship, and was born and raised in Moscow, I do not identify myself as Russian. My father is Tatar. His family used to move a lot, having lived in different parts of Uzbekistan and Kyrgyzstan. My paternal grandfather, Rim Aslamurzaevich Bikin, was a native speaker of Tatar and Kyrgyz. My last name roots back to Proto-Turkic *bek 'firm, solid, stable' - and has nothing to do with bikini or the Russian Far Eastern city Bikin :)  
 
