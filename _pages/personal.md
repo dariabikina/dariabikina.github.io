@@ -16,6 +16,8 @@ My mother's ancestors lived in Liubischitsy and Liozna (Western Belarus; used to
 
 Apart from linguistics, I enjoy watercolor painting, fitness and yoga, and spending time with my family and my dog Yosi. 
 
+![Yosi](/images/yosi1.jpg)
+
 
 
 I used to sing in the Vesnianka choral studio in Moscow for 15 years – check out their [YouTube channel](https://www.youtube.com/user/VesniankaRu).
