@@ -3,10 +3,10 @@ main:
   - title: "Research"
     url: /talks/
   - title: "CV"
-     url: /cv/
+    url: /cv/
   - title: "Teaching"
-      url: /teaching/
+    url: /teaching/
   - title: "Teaching"
-      url: /teaching/
+    url: /teaching/
   - title: "Personal"
     url: /personal/
