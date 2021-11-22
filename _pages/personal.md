@@ -19,9 +19,9 @@ Apart from linguistics, I enjoy watercolor painting, fitness and yoga, and spend
 
 
 <table><tr>
-<td> <img src="/images/christmas.jpg" alt="Drawing" style="width: 32%"/> </td>
-<td> <img src="/images/hydrangea.jpeg" alt="Drawing" style="width: 32%"/> </td>
-<td> <img src="/images/plums.jpg" alt="Drawing" style="width: 32%"/> </td>
+<td> <img src="/images/christmas.jpg" alt="Drawing" style="width: 100%"/> </td>
+<td> <img src="/images/hydrangea.jpeg" alt="Drawing" style="width: 100%"/> </td>
+<td> <img src="/images/plums.jpg" alt="Drawing" style="width: 100%"/> </td>
 </tr></table>
 
 <img src="/images/yosi1.jpg" alt="drawing" width="200"/>
