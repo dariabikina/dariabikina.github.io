@@ -18,11 +18,11 @@ Apart from linguistics, I enjoy watercolor painting, fitness and yoga, and spend
 
 
 
-<p float="left">
-  <img src="/images/christmas.jpg" width="400" />
-  <img src="/images/hydrangea.jpeg" width="400" /> 
-  <img src="/images/plums.jpg" width="400" />
-</p>
+<table><tr>
+<td> <img src="/images/christmas.jpg" alt="Drawing" style="width: 32%"/> </td>
+<td> <img src="/images/hydrangea.jpeg" alt="Drawing" style="width: 32%"/> </td>
+<td> <img src="/images/plums.jpg" alt="Drawing" style="width: 32%"/> </td>
+</tr></table>
 
 <img src="/images/yosi1.jpg" alt="drawing" width="200"/>
 
