@@ -14,8 +14,8 @@ My mother's ancestors lived in Liubischitsy and Liozna (Western Belarus; used to
 
 ### Life beyond linguistics
 
-Apart from linguistics, I enjoy watercolor painting, fitness and yoga, and spending time with my family and my dog Yosi. 
 
+| Apart from linguistics, I enjoy watercolor painting, fitness and yoga, and spending time with my family and my dog Yosi.  | <img src="yosi1.jpg" alt="drawing" width="300"/>) |
 
 
 <table><tr>
@@ -24,6 +24,5 @@ Apart from linguistics, I enjoy watercolor painting, fitness and yoga, and spend
 <td> <img src="/images/plums.jpg" alt="Drawing" style="width: 100%"/> </td>
 </tr></table>
 
-<img src="/images/yosi1.jpg" alt="drawing" width="200"/>
 
 I used to sing in the Vesnianka choral studio in Moscow for 15 years – check out their [YouTube channel](https://www.youtube.com/user/VesniankaRu).
