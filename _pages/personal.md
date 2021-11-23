@@ -14,7 +14,7 @@ My mother's ancestors lived in Liubischitsy and Liozna (Western Belarus; used to
 
 ### Life beyond linguistics
 
-<img align="right" src="/images/yosi1.jpg">
+<img align="right" src="/images/yosi1.jpg" alt="drawing" width="350">
 
 Apart from linguistics, I enjoy watercolor painting, fitness and yoga, and spending time with my family and my dog Yosi.  
 
