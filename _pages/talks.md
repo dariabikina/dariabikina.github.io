@@ -8,7 +8,7 @@ author_profile: true
 ### Syntax and semantics of non-finite clauses
 ##### papers on it
 
-Bikina, D. A., and A. M. Starchenko (2019). [Relative clause or nominalized clause: the evidence from Kazym Khanty](/files/BikinaStarchenko_2019_Khanty_RC.pdf). Typology of Morphosyntactic parameters 2 (1). Pp. 49--69. (in Russian) 
+Bikina, D. A., and A. M. Starchenko (2019). [Relative clause or nominalized clause: the evidence from Kazym Khanty](/files/BikinaStarchenko_2019_Khanty_RC.pdf). *Typology of Morphosyntactic parameters* 2 (1). Pp. 49--69. (*in Russian*) 
 
 ##### talks on it
 
@@ -19,13 +19,22 @@ Possessed relative clauses in Kazym Khanty. Poster presented at the Fall School 
 Voice alternations in Kazym Khanty participial relative clauses. Talk given at SOUL 3 (Syntax of Uralic languages), Tartu University, Tartu, Estonia, 2019. [handout](/files/ho_Bikina_SOUL2019.pdf)
 
 ### D-linking, topicality, and (in)definiteness 
-##### selected talks, see the full list in CV
+*Disclaimer: I was kind of a typologist than a theoretician at the time. However, I do believe that these works have at least some empirical value. There are more listed on my CV; feel free to reach me if you'd like to have a look at them!*
+##### papers on it 
+
+Bikina, D. A. (2018). [Double indefiniteness marking in Hill Mari](/files/Bikina2018_Acta.pdf). In Acta Linguistica Petropolitana. Transactions of the Institute for Linguistic Studies 14 (2), ed. Golovko E. Saint-Petersbourg: ILS RAN. Pp. 37–60. (*in Russian*)
+
+Bikina, D. A. (2016). Bikina, D. A. (2016). [Grammaticalization of Russian borrowings in Moksha Mordvin: the marker *kat’i*](/files/Bikina2016_TMP.pdf). *Typology of Morphosyntactic parameters* 2, ed. Lyutikova E., Zimmerling A., and M. Konoshenko. Moscow: MPSU. Pp. 16–27. (*in Russian*)
+
+##### selected talks on it
 
 Moksha "definite" declension, D-linking, and global choice functions. Talk given at Southern New England Workshop in Semantics, UConn (virtually), 2021. [handout (very, very preliminary work)](https://snewsling.files.wordpress.com/2021/05/moksha_definite_declension-4.pdf)
 
 Restrictions on the ontological category of indefinite pronoun series in the languages of Europe. Talk given at ConSOLE XXVI (Conference of the Student Organization of Linguistics in Europe), UCL, London, 2018. [slides](/files/Restrictions_on_the_Ontological_Category.pdf)
 
 Indefinite pronouns with two indefiniteness markers and the semantics of specificity: the case of Hill Mari. Talk given at Debrecen Workshop on Pronouns, Debrecen University, Debrecen, Hungary, 2017. [slides](/files/Indefinite_Pronouns_with_Two_Indefiniten.pdf)
+
+
 
 
 
