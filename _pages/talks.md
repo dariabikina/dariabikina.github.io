@@ -28,7 +28,7 @@ Bikina, D. A. (2016). Bikina, D. A. (2016). [Grammaticalization of Russian borro
 
 ##### selected talks on it
 
-Moksha "definite" declension, D-linking, and global choice functions. Talk given at Southern New England Workshop in Semantics, UConn (virtually), 2021. [handout (very, very preliminary work)](https://snewsling.files.wordpress.com/2021/05/moksha_definite_declension-4.pdf)
+Moksha "definite" declension, D-linking, and global choice functions. Talk given at Southern New England Workshop in Semantics, UConn (virtually), 2021. [handout](https://snewsling.files.wordpress.com/2021/05/moksha_definite_declension-4.pdf)
 
 Restrictions on the ontological category of indefinite pronoun series in the languages of Europe. Talk given at ConSOLE XXVI (Conference of the Student Organization of Linguistics in Europe), UCL, London, 2018. [slides](/files/Restrictions_on_the_Ontological_Category.pdf)
 
