@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can see my CV [here (updated in October 2021)](https://github.com/dariabikina/dariabikina.github.io/blob/master/files/CV_Bikina_2021_October.pdf). 
+You can see my CV [here (updated in October 2021)](/files/Bikina_FullCV_Nov2021.pdf). 
