@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Publications and talks"
 permalink: /talks/
 author_profile: true
 ---
@@ -19,7 +19,7 @@ Possessed relative clauses in Kazym Khanty. Poster presented at the Fall School 
 Voice alternations in Kazym Khanty participial relative clauses. Talk given at SOUL 3 (Syntax of Uralic languages), Tartu University, Tartu, Estonia, 2019. [handout](/files/ho_Bikina_SOUL2019.pdf)
 
 ### D-linking, topicality, and (in)definiteness 
-*Disclaimer: I was kind of a typologist than a theoretician at the time. However, I do believe that these works have at least some empirical value. There are more listed on my CV; feel free to reach me if you'd like to have a look at them!*
+*Disclaimer: I was kind of a typologist rather than a theoretician at the time. However, I do believe that these works have at least some empirical value. There are more listed on my CV; feel free to reach me if you'd like to have a look at them!*
 ##### papers on it 
 
 Bikina, D. A. (2018). [Double indefiniteness marking in Hill Mari](/files/Bikina2018_Acta.pdf). In Acta Linguistica Petropolitana. Transactions of the Institute for Linguistic Studies 14 (2), ed. Golovko E. Saint-Petersbourg: ILS RAN. Pp. 37–60. (*in Russian*)
