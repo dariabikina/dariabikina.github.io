@@ -8,6 +8,8 @@ author_profile: true
 ### Syntax and semantics of non-finite clauses
 ##### papers on it
 
+Bikina, Daria, Rakhman, Denis, Potseluev,  Vsevolod, Starchenko, Aleksey, and Svetlana Toldova. Non-finite constructions in Khanty: their unity and diversity. To appear in *Folia Linguistica* (email for a draft)
+
 Bikina, D. A., and A. M. Starchenko (2019). [Relative clause or nominalized clause: the evidence from Kazym Khanty](/files/BikinaStarchenko_2019_Khanty_RC.pdf). *Typology of Morphosyntactic parameters* 2 (1). Pp. 49--69. (*in Russian*) 
 
 ##### talks on it
