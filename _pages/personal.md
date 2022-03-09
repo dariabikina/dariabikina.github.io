@@ -7,7 +7,7 @@ author_profile: true
 
 ### Family history
 
-Although I am Russian by citizenship, and was born and raised in Moscow, I cannot say I am a Russian-Russian. My father is Tatar. His family used to move a lot, having lived in different parts of Uzbekistan and Kyrgyzstan. My paternal grandfather, Rim Aslamurzaevich Bikin, was a native speaker of Tatar and Kyrgyz. My last name roots back to Proto-Turkic **bek* 'firm, solid, stable' - and has nothing to do with bikini or the city of Bikin in the Far East of Russia :)  
+My ancestry is a bit convoluted. My father is Tatar. His family used to move a lot, having lived in different parts of Uzbekistan and Kyrgyzstan. My paternal grandfather, Rim Aslamurzaevich Bikin, was a native speaker of Tatar and Kyrgyz. My last name roots back to Proto-Turkic **bek* 'firm, solid, stable' - and has nothing to do with bikini or the city of Bikin in the Far East of Russia :)  
 
 My mother's ancestors lived in Liubischitsy and Liozna (Western Belarus; used to belong to Poland as well) and identified themselves as Belarusians. Some of them might have had some Jewish roots as well, as their last name was Bakhur (which means 'boy' in Hebrew). My maternal grandfather, Nikolay Ivanovich Bakhur, survived the Nazi occupation when he was a child. My great-grandfather, Ivan Aleksandrovich Seleznyov, was a military acoustic engineer and kept a diary for more than 50 years. This diary documenting his life during World War II, Cold War and perestrojka, was partially published on [the Prozhito Web Archive of Diaries](https://prozhito.org/person/1799).
 
