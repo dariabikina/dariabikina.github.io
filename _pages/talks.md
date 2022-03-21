@@ -5,6 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
+### Agreement mismatches in Russian 
+
+How abstract is the abstract noun? Gender agreement in Russian restrictive relative clauses. Talk given at Penn Linguistics Conference 46, UPenn, 18-20.03.2022. [slides](/files/Bikina_PLC_slides-2.pdf)
+
+
 ### Syntax and semantics of non-finite clauses
 ##### papers on it
 
@@ -35,10 +40,6 @@ Moksha "definite" declension, D-linking, and global choice functions. Talk given
 Restrictions on the ontological category of indefinite pronoun series in the languages of Europe. Talk given at ConSOLE XXVI (Conference of the Student Organization of Linguistics in Europe), UCL, London, 2018. [slides](/files/Restrictions_on_the_Ontological_Category.pdf)
 
 Indefinite pronouns with two indefiniteness markers and the semantics of specificity: the case of Hill Mari. Talk given at Debrecen Workshop on Pronouns, Debrecen University, Debrecen, Hungary, 2017. [slides](/files/Indefinite_Pronouns_with_Two_Indefiniten.pdf)
-
-
-
-
 
 
 
