@@ -9,7 +9,6 @@ author_profile: true
 
 How abstract is the abstract noun? Gender agreement in Russian restrictive relative clauses. Talk given at Penn Linguistics Conference 46, UPenn, 18-20.03.2022. [slides](/files/Bikina_PLC_slides-2.pdf)
 
-
 ### Syntax and semantics of non-finite clauses
 ##### papers on it
 
