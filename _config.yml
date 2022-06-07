@@ -84,7 +84,7 @@ author:
   avatar           : "main2.jpg"
   bio              : "M.A. in Linguistics; PhD student at Harvard University"
   location         : "Boston, MA"
-  employer         :
+  employer         : 
   email            : "dbikina at g dot harvard dot edu"
   uri              :
   bitbucket        :
@@ -98,7 +98,7 @@ author:
   instagram        : "amour_abajour"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :"https://www.linkedin.com/in/daria-bikina-401b8a222/"
+  linkedin         : "https://www.linkedin.com/in/daria-bikina-401b8a222/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -111,6 +111,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+
 
 
 # Reading Files
