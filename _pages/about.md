@@ -16,5 +16,5 @@ Before going to Harvard, I received a BA from [the Department of Theoretical and
 
 My name is pronounced as ['darʲjə 'bʲikʲɪnə]. However, most Russians have full names used in "official" situations and nicknames used elsewhere, so I also go by Dasha. My pronouns are she/her. 
 
-You can reach me at **dbikina at g dot harvard dot edu**. Some of my work can also be found on my [Github](https://github.com/dariabikina).
+You can reach me at **dbikina at g dot harvard dot edu**.
 
