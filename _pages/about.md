@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year graduate student in [the Department of Linguistics](https://linguistics.fas.harvard.edu) at Harvard University. My primary interests are in syntax and semantics, in particular the mapping between these two interfaces. The topics I have been thinking lately are semantics of bare arguments, differential subject marking, syntax and semantics of non-finite embedded clauses, and agreement systems. I also love doing fieldwork. I have been working with Uralic and Turkic languages spoken in Russia, namely, with Moksha and Erzya Mordvin, Hill Mari, Northern Khanty, and Chuvash. I also do some work on Russian. 
+I am a third-year graduate student in [the Department of Linguistics](https://linguistics.fas.harvard.edu) at Harvard University. My primary interests are in syntax and semantics, in particular the mapping between the two. The topics I have been researching lately are semantics of bare arguments, differential subject marking, syntax and semantics of non-finite embedded clauses, and agreement systems. I also love doing fieldwork. I have been working with Uralic and Turkic languages spoken in Russia, namely, with Moksha and Erzya Mordvin, Hill Mari, Northern Khanty, and Chuvash. I also do some work on Russian. 
 
 I am an Associate at the [Davis Center for Russian and Eurasian Studies](https://daviscenter.fas.harvard.edu) at Harvard University. 
 
