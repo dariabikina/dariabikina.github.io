@@ -15,7 +15,8 @@ In addition, I am a fieldworker and come from a country where more than 100 lang
 
 | Semester and year | Class | Level | Role | School |
 |---------------------------------------------------|
-|Fall 2022| LING101: The Science of Language: An Introduction | undergraduate | Teaching Fellow | Harvard University |
+|Spring 2023| LING 83: Language, Structure, and Cognition | undergraduate | Teaching Fellow | Harvard University |
+|Fall 2022| LING 101: The Science of Language: An Introduction | undergraduate | Teaching Fellow | Harvard University |
 | Spring 2019 | Khanty for fieldwork | undergraduate | Instructor | Lomonossov Moscow State University| 
 Fall 2018 | Linguistic Diversity | undergraduate | Teaching Assistant | HSE School of Linguistics |
 Fall 2017 | Syntax | undergraduate | Teaching Assistant | HSE School of Linguistics | 
