@@ -12,7 +12,7 @@ How abstract is the abstract noun? Gender agreement in Russian restrictive relat
 ### Syntax and semantics of non-finite clauses
 ##### papers on it
 
-Bikina, Daria, Rakhman, Denis, Potseluev,  Vsevolod, Starchenko, Aleksey, and Svetlana Toldova. Non-finite constructions in Khanty: their unity and diversity. To appear in *Folia Linguistica* (email for a draft)
+Bikina, Daria, Rakhman, Denis, Potseluev,  Vsevolod, Starchenko, Aleksey, and Svetlana Toldova. [Non-finite constructions in Khanty: their unity and diversity](https://www.degruyter.com/document/doi/10.1515/flin-2022-2043/html). *Folia Linguistica* 56 (3). Pp. 625--665. (Email for a preprint)
 
 Bikina, D. A., and A. M. Starchenko (2019). [Relative clause or nominalized clause: the evidence from Kazym Khanty](/files/BikinaStarchenko_2019_Khanty_RC.pdf). *Typology of Morphosyntactic parameters* 2 (1). Pp. 49--69. (*in Russian*) 
 
