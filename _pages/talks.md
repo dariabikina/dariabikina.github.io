@@ -1,13 +1,17 @@
 ---
 layout: archive
-title: "Publications and talks"
+title: "Selected publications and talks"
 permalink: /talks/
 author_profile: true
 ---
 
-### Agreement mismatches in Russian 
+### Reference and the DP level in Russian
 
-How abstract is the abstract noun? Gender agreement in Russian restrictive relative clauses. Talk given at Penn Linguistics Conference 46, UPenn, 18-20.03.2022. [slides](/files/Bikina_PLC_slides-2.pdf) 
+(In)definiteness in Russian bare nouns: evidence from presentational contexts. Talk given at Formal Approaches to Slavic Linguistics Conference 32, Indiana University, May 2023. [slides](/files/fasl_handout-2.pdf)
+
+Chasing pragmatics: an experimental study of bare noun interpretation. Poster presented at Human Sentence Processing, March 2023. [poster]()
+
+How abstract is the abstract noun? Gender agreement in Russian restrictive relative clauses. Talk given at Penn Linguistics Conference 46, UPenn, March 2022. [slides](/files/Bikina_PLC_slides-2.pdf) 
 
 ### Syntax and semantics of non-finite clauses
 ##### papers on it
@@ -25,7 +29,7 @@ Possessed relative clauses in Kazym Khanty. Poster presented at the Fall School 
 Voice alternations in Kazym Khanty participial relative clauses. Talk given at SOUL 3 (Syntax of Uralic languages), Tartu University, Tartu, Estonia, 2019. [handout](/files/ho_Bikina_SOUL2019.pdf)
 
 ### D-linking, topicality, and (in)definiteness 
-*Disclaimer: I was kind of a typologist rather than a theoretician at the time. However, I do believe that these works have at least some empirical value. There are more listed on my CV; feel free to reach me if you'd like to have a look at them!*
+
 ##### papers on it 
 
 Bikina, D. A. (2018). [Double indefiniteness marking in Hill Mari](/files/Bikina2018_Acta.pdf). In Acta Linguistica Petropolitana. Transactions of the Institute for Linguistic Studies 14 (2), ed. Golovko E. Saint-Petersbourg: ILS RAN. Pp. 37–60. (*in Russian*)
