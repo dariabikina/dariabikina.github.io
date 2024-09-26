@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can see my CV [here (updated in November 2022)](/files/Bikina_FullCV_Nov2022.pdf). 
+You can see my CV [here (updated in November 2022)](/files/Bikina_FullCV_Sep2024.pdf). 
