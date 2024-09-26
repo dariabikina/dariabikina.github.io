@@ -9,7 +9,7 @@ author_profile: true
 
 (In)definiteness in Russian bare nouns: evidence from presentational contexts. Talk given at Formal Approaches to Slavic Linguistics Conference 32, Indiana University, May 2023. [slides](/files/fasl_handout-2.pdf)
 
-Chasing pragmatics: an experimental study of bare noun interpretation. Poster presented at Human Sentence Processing, March 2023. [poster]()
+Chasing pragmatics: an experimental study of bare noun interpretation. Poster presented at Human Sentence Processing, March 2023. [poster](/files/HSP poster Bikina final.pdf)
 
 How abstract is the abstract noun? Gender agreement in Russian restrictive relative clauses. Talk given at Penn Linguistics Conference 46, UPenn, March 2022. [slides](/files/Bikina_PLC_slides-2.pdf) 
 
