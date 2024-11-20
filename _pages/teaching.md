@@ -15,7 +15,7 @@ In addition, I am a fieldworker and come from a country where more than 100 lang
 
 | Semester and year | Class | Level | Role | School |
 |---------------------------------------------------|
-|Fall 2024| PSY 1900: Introduction to Statistics for Behavioral Sciences | undergraduate | Teaching Fellow | Harvard University |
+|Fall 2024, Spring 2025| PSY 1900: Introduction to Statistics for Behavioral Sciences | undergraduate | Teaching Fellow | Harvard University |
 |Fall 2023| LING 104: Word Structure | undergraduate | Teaching Fellow | Harvard University |
 |Spring 2023| LING 97R: Sophomore Tutorial. Introduction to Typology and Linguistic Research | undergraduate | Instructor | Harvard University |
 |Spring 2023, Spring 2024 | LING 83: Language, Structure, and Cognition | undergraduate | Teaching Fellow | Harvard University |
