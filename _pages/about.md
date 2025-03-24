@@ -14,7 +14,7 @@ I conduct my experimental work in the [Meaning & Modality Laboratory](https://pr
 Previously, I have worked with Uralic and Turkic languages spoken in Russia, including Moksha, Erzya Mordvin, Hill Mari, Northern Khanty, and Chuvash. My fieldwork has covered topics such as differential subject marking, the syntax and semantics of non-finite embedded clauses, and agreement systems. I am also an Associate at the [Davis Center for Russian and Eurasian Studies](https://daviscenter.fas.harvard.edu) at Harvard University. 
 
 Before going to Harvard, I received a BA from [the Department of Theoretical and Applied Linguistics
-](http://tipl.philol.msu.ru) at Moscow State University and an MA in [Fundamental and Computational Linguistics (with a focus in Linguistic Theory and Language Description)](https://www.hse.ru/en/ma/tling/) from Higher School of Economics (Moscow), School of Linguistics.
+](http://tipl.philol.msu.ru) at Moscow State University and an MA in [Fundamental and Computational Linguistics (with a focus on Linguistic Theory and Language Description)](https://www.hse.ru/en/ma/tling/) from Higher School of Economics (Moscow), School of Linguistics.
 
 My name is pronounced as ['darʲjə 'bʲikʲɪnə]. However, most Russians have full names used in "official" situations and nicknames used elsewhere, so I also go by Dasha. My pronouns are she/her. 
 
