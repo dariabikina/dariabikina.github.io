@@ -7,8 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+<p class="portfolio-intro">A selection of my research projects. Click any card to read more about the work.</p>
 
+<div class="portfolio-grid">
 {% for post in site.portfolio %}
-  {% include archive-single.html %}
+  {% include portfolio-card.html %}
 {% endfor %}
-
+</div>

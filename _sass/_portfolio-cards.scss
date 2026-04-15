@@ -1,0 +1,104 @@
+/* ==========================================================================
+   PORTFOLIO CARDS
+   ========================================================================== */
+
+.portfolio-intro {
+  color: $gray;
+  font-size: $type-size-5;
+  margin-bottom: 2em;
+}
+
+.portfolio-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5em;
+
+  @include breakpoint($small) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @include breakpoint($medium-wide) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.portfolio-card {
+  background: #fff;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  overflow: hidden;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+
+  &:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.10);
+    transform: translateY(-2px);
+  }
+
+  &__link {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    text-decoration: none !important;
+    color: inherit;
+
+    &:hover {
+      text-decoration: none !important;
+    }
+  }
+
+  &__accent {
+    height: 4px;
+    background: $info-color;
+    flex-shrink: 0;
+  }
+
+  &__body {
+    display: flex;
+    flex-direction: column;
+    padding: 1.4em 1.4em 1.2em;
+    flex: 1 1 auto;
+  }
+
+  &__tag {
+    display: inline-block;
+    font-size: $type-size-8;
+    font-family: $sans-serif;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: $info-color;
+    background: mix(#fff, $info-color, 88%);
+    padding: 2px 8px;
+    border-radius: 3px;
+    margin-bottom: 0.6em;
+    align-self: flex-start;
+  }
+
+  &__title {
+    font-size: $type-size-5;
+    font-family: $sans-serif;
+    font-weight: 600;
+    color: $dark-gray;
+    margin: 0 0 0.6em;
+    line-height: 1.35;
+    border-bottom: none !important;
+    padding-bottom: 0 !important;
+  }
+
+  &__excerpt {
+    font-size: $type-size-6;
+    color: $gray;
+    line-height: 1.6;
+    margin: 0 0 1em;
+    flex: 1 1 auto;
+  }
+
+  &__cta {
+    font-size: $type-size-7;
+    font-family: $sans-serif;
+    font-weight: 600;
+    color: $info-color;
+    letter-spacing: 0.03em;
+    margin-top: auto;
+  }
+}

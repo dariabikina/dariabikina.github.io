@@ -1,0 +1,17 @@
+<section class="news-feed">
+  <h2 class="news-feed__title">News</h2>
+  <div class="news-feed__list">
+    {% for item in site.data.news %}
+    <div class="news-item">
+      <div class="news-item__date">{{ item.date }}</div>
+      <div class="news-item__body">
+        {% if item.tag %}
+        <span class="news-item__tag">{{ item.tag }}</span>
+        {% endif %}
+        <h3 class="news-item__heading">{{ item.title }}</h3>
+        <p class="news-item__text">{{ item.description }}</p>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>

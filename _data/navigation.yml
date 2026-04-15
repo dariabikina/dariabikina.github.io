@@ -8,3 +8,5 @@ main:
     url: /teaching/
   - title: "Personal"
     url: /personal/
+  - title: "Portfolio"
+    url: /portfolio/

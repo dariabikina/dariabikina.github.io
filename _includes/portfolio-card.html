@@ -1,0 +1,17 @@
+{% include base_path %}
+
+<div class="portfolio-card">
+  <a href="{{ base_path }}{{ post.url }}" class="portfolio-card__link">
+    <div class="portfolio-card__accent"></div>
+    <div class="portfolio-card__body">
+      {% if post.tag %}
+      <span class="portfolio-card__tag">{{ post.tag }}</span>
+      {% endif %}
+      <h2 class="portfolio-card__title">{{ post.title }}</h2>
+      {% if post.excerpt %}
+      <p class="portfolio-card__excerpt">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>
+      {% endif %}
+      <span class="portfolio-card__cta">Read more &rarr;</span>
+    </div>
+  </a>
+</div>

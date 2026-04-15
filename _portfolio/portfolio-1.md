@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Bias against grammar in humans vs. LLMs"
+excerpt: "Do humans and LLMs ignore grammar in the same way? This study looks at how both process small but meaningful words like *the* under contextual pressure, and finds that model size isn't the whole story."
+tag: "LLM evaluation"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+*Blog post coming soon.*

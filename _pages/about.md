@@ -20,3 +20,5 @@ My name is pronounced as ['darʲjə 'bʲikʲɪnə]. However, most Russians have 
 
 You can reach me at **dbikina at g dot harvard dot edu**. Some of my work can also be found on my [Github](https://github.com/dariabikina).
 
+{% include news-feed.html %}
+
