@@ -1,6 +1,6 @@
 ---
 title: "Bias against grammar in humans vs. LLMs"
-excerpt: "Do humans and LLMs ignore grammar in the same way? This study looks at how both process small but meaningful words like *the* under contextual pressure, and finds that model size isn't the whole story."
+excerpt: "If the context is convoluted enough, humans get confused and misread the sentence. Some LLMs get confused just like humans, but others just follow the grammar, and the difference is not just about the model size."
 tag: "LLM evaluation"
 collection: portfolio
 ---
