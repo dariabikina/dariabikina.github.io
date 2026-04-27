@@ -45,10 +45,13 @@ Restrictions on the ontological category of indefinite pronoun series in the lan
 Indefinite pronouns with two indefiniteness markers and the semantics of specificity: the case of Hill Mari. Talk given at Debrecen Workshop on Pronouns, Debrecen University, Debrecen, Hungary, 2017. [slides](/files/Indefinite_Pronouns_with_Two_Indefiniten.pdf)
 
 
-
 ### Russian long and short adjectives
 
 Intersectivity at the interface: the syntax and semantics of Russian adjectives (in coauthorship: J. Martin, D. Bikina). Talk given at Formal Approaches to Slavic Linguistics 30, MIT, 13-16.05.2021. [slides](/files/MartinBikina_2021_RussianAdjectives.pdf)
+
+### Language education and organizational dynamics in crisis contexts
+
+Chrabaszcz, A., Anisimova, V., Antropova, J., **Bikina, D.**, Menukhova, A., Mirabo, S., Odnoshivkina, V., Shcherbakova, A., Tikhomirova, A., and Zmiievska, T. (2022). [Creating communities of practice for fostering second language learning in people in crisis](https://evnuir.vnu.edu.ua/items/6eb9dc3c-2c62-4c2e-935f-c44437e459b0). Creating communities of practice for fostering second language learning in people in crisis. *East European Journal of Psycholinguistics* 9(2). Pp. 11–28. 
 
 
 
