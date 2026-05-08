@@ -9,7 +9,7 @@
         <span class="news-item__tag">{{ item.tag }}</span>
         {% endif %}
         <h3 class="news-item__heading">{{ item.title }}</h3>
-        <p class="news-item__text">{{ item.description }}</p>
+        <div class="news-item__text">{{ item.description | markdownify }}</div>
       </div>
     </div>
     {% endfor %}
