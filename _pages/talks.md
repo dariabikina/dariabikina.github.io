@@ -32,9 +32,11 @@ Voice alternations in Kazym Khanty participial relative clauses. Talk given at S
 
 ##### papers on it 
 
+Bikina, D. A. (2018) [Neopredelennye mestoimenija [Indefinite pronouns]](https://ruslang.ru/sites/default/files/2025-08/Moksha_final_ocr_contents.pdf). In *Elementy mokšanskogo jazyka v tipologičeskom osveščenii*, ed. Svetlana Toldova and Maria Kholodilova. Moscow, Russia: Buki Vedi. 183–204. (*in Russian; the link leads to the whole book*)
+
 Bikina, D. A. (2018). [Double indefiniteness marking in Hill Mari](/files/Bikina2018_Acta.pdf). In Acta Linguistica Petropolitana. Transactions of the Institute for Linguistic Studies 14 (2), ed. Golovko E. Saint-Petersbourg: ILS RAN. Pp. 37–60. (*in Russian*)
 
-Bikina, D. A. (2016). Bikina, D. A. (2016). [Grammaticalization of Russian borrowings in Moksha Mordvin: the marker *kat’i*](/files/Bikina2016_TMP.pdf). *Typology of Morphosyntactic parameters* 2, ed. Lyutikova E., Zimmerling A., and M. Konoshenko. Moscow: MPSU. Pp. 16–27. (*in Russian*)
+Bikina, D. A. (2016). [Grammaticalization of Russian borrowings in Moksha Mordvin: the marker *kat’i*](/files/Bikina2016_TMP.pdf). *Typology of Morphosyntactic parameters* 2, ed. Lyutikova E., Zimmerling A., and M. Konoshenko. Moscow: MPSU. Pp. 16–27. (*in Russian*)
 
 ##### selected talks on it
 
