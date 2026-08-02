@@ -14,6 +14,7 @@ In addition, I am a fieldworker and come from a country where more than 100 lang
 ### Classes taught
 
 As instructor of record:
+
 | Semester and year | Class | Level |  School |
 |---------------------------------------------------|
 |Summer 2026 | LING S-101: The Science of Language: An Introduction | Harvard University | 
