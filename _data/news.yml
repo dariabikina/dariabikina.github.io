@@ -1,4 +1,10 @@
 
+- date: "August 2026"
+  title: "Harvard Summer School"
+  description: "I am teaching LING S-101 *The Science of Language* this summer term. The class brings together classic foundations of linguistics and the exciting challenges that the development of LLMs brought to us linguists." 
+  tag: "Teaching"
+
+
 - date: "May 2026" 
   title: "Dissertation text available" 
   description: "The full text of my dissertation is now available on [lingbuzz](https://ling.auf.net/lingbuzz/009990)."
