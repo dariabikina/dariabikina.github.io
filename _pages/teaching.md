@@ -19,8 +19,8 @@ As instructor of record:
 |---------------------------------------------------|
 |Summer 2026 | LING S-101: The Science of Language: An Introduction | various | Harvard University | 
 |Spring 2023| LING 97R: Sophomore Tutorial. Introduction to Typology and Linguistic Research | undergraduate | Harvard University |
-|Spring 2019| Khanty for fieldwork (non-credit class) | undergraduate | Lomonossov Moscow State University | 
-|Summer 2015| Introduction to Linguistics | high school | Lomonossov MSU summer school in Natural Sciences "Chimera" |
+|Spring 2019| Khanty for fieldwork (non-credit class) | undergraduate | Lomonosov Moscow State University | 
+|Summer 2015| Introduction to Linguistics | high school | Lomonosov MSU summer school in Natural Sciences "Chimera" |
 
 As teaching fellow: 
 

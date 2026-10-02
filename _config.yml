@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Daria Bikina"
 title_separator          : "-"
 name                     : &name "Daria Bikina"
-description              : &description "personal description"
+description              : &description "Daria Bikina is a linguist at Harvard working in experimental semantics: (in)definiteness, bare nouns, and the linguistic abilities of language models."
 url                      : https://dariabikina.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dariabikina/dariabikina.github.io"
@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "main2.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
