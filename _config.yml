@@ -176,7 +176,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false # hidden for now; set back to true to publish project pages
     permalink: /:collection/:path/
   talks:
     output: true

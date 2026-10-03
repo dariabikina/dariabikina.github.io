@@ -8,5 +8,8 @@ main:
     url: /teaching/
   - title: "Personal"
     url: /personal/
-  - title: "Portfolio"
-    url: /portfolio/
+  # Portfolio is hidden for now. To show it again, uncomment these two lines
+  # remove "published: false" from _pages/portfolio.html, and set the portfolio
+  # collection back to "output: true" in _config.yml.
+  # - title: "Portfolio"
+  #   url: /portfolio/
