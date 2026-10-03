@@ -1,17 +1,29 @@
 ---
 layout: archive
 title: "Selected publications and talks"
-permalink: /talks/
+permalink: /research/
 author_profile: true
+redirect_from:
+  - /talks/
+  - /publications/
 ---
+
+<div class="research-page" markdown="1">
+
+
+<section class="research-card" markdown="1">
 
 ### Reference and the DP level in Russian
 
 (In)definiteness in Russian bare nouns: evidence from presentational contexts. Talk given at Formal Approaches to Slavic Linguistics Conference 32, Indiana University, May 2023. [slides](/files/fasl_handout-2.pdf)
 
-Chasing pragmatics: an experimental study of bare noun interpretation. Poster presented at Human Sentence Processing, March 2023. [poster](/files/HSP poster Bikina final.pdf)
+Chasing pragmatics: an experimental study of bare noun interpretation. Poster presented at Human Sentence Processing, March 2023. [poster](/files/HSP_poster_Bikina_final.pdf)
 
 How abstract is the abstract noun? Gender agreement in Russian restrictive relative clauses. Talk given at Penn Linguistics Conference 46, UPenn, March 2022. [slides](/files/Bikina_PLC_slides-2.pdf) 
+
+</section>
+
+<section class="research-card" markdown="1">
 
 ### Syntax and semantics of non-finite clauses
 ##### papers on it
@@ -27,6 +39,10 @@ Relative clause or nominalized clause: the evidence from Kazym Khanty (in coauth
 Possessed relative clauses in Kazym Khanty. Poster presented at the Fall School in Formal Syntax and Formal Semantics poster session, HSE, Moscow, 2019. [poster](/files/poster_Bikina_FS2019.pdf)
 
 Voice alternations in Kazym Khanty participial relative clauses. Talk given at SOUL 3 (Syntax of Uralic languages), Tartu University, Tartu, Estonia, 2019. [handout](/files/ho_Bikina_SOUL2019.pdf)
+
+</section>
+
+<section class="research-card" markdown="1">
 
 ### D-linking, topicality, and (in)definiteness 
 
@@ -46,14 +62,22 @@ Restrictions on the ontological category of indefinite pronoun series in the lan
 
 Indefinite pronouns with two indefiniteness markers and the semantics of specificity: the case of Hill Mari. Talk given at Debrecen Workshop on Pronouns, Debrecen University, Debrecen, Hungary, 2017. [slides](/files/Indefinite_Pronouns_with_Two_Indefiniten.pdf)
 
+</section>
+
+<section class="research-card" markdown="1">
 
 ### Russian long and short adjectives
 
 Intersectivity at the interface: the syntax and semantics of Russian adjectives (in coauthorship: J. Martin, D. Bikina). Talk given at Formal Approaches to Slavic Linguistics 30, MIT, 13-16.05.2021. [slides](/files/MartinBikina_2021_RussianAdjectives.pdf)
 
+</section>
+
+<section class="research-card" markdown="1">
+
 ### Language education and organizational dynamics in crisis contexts
 
 Chrabaszcz, A., Anisimova, V., Antropova, J., **Bikina, D.**, Menukhova, A., Mirabo, S., Odnoshivkina, V., Shcherbakova, A., Tikhomirova, A., and Zmiievska, T. (2022). [Creating communities of practice for fostering second language learning in people in crisis](https://evnuir.vnu.edu.ua/items/6eb9dc3c-2c62-4c2e-935f-c44437e459b0). Creating communities of practice for fostering second language learning in people in crisis. *East European Journal of Psycholinguistics* 9(2). Pp. 11–28. 
 
+</section>
 
-
+</div>

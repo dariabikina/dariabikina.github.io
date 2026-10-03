@@ -1,0 +1,25 @@
+/* ==========================================================================
+   THEME OVERRIDES
+   Newsreader for names and headings that the template sets in sans-serif.
+   ========================================================================== */
+
+.masthead__menu-item--lg a {
+  font-family: $display-serif;
+  font-size: 1.25em;
+  font-weight: 500;
+  color: $text-color;
+}
+
+.greedy-nav .visible-links a:before {
+  height: 2px;
+  background: $primary-color;
+}
+
+.sidebar .author__name,
+.author__name,
+.news-feed__title,
+.news-item__heading,
+.portfolio-card__title {
+  font-family: $display-serif;
+  font-weight: 500;
+}
