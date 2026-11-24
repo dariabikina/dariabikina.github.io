@@ -1,18 +1,21 @@
 /* ==========================================================================
    THEME OVERRIDES
-   Serif display face for names and headings that the template sets in sans-serif.
    ========================================================================== */
 
+/* Site name in the top bar */
 .masthead__menu-item--lg a {
-  font-family: $display-serif;
-  font-size: 1.25em;
+  font-size: 1.15em;
   font-weight: 600;
   color: $text-color;
 }
 
+/* Menu: no underline bar on hover; the page you are on is shown in black */
 .greedy-nav .visible-links a:before {
-  height: 2px;
-  background: $primary-color;
+  display: none;
+}
+
+.greedy-nav a.is-current {
+  color: $text-color;
 }
 
 .sidebar .author__name,
@@ -20,7 +23,6 @@
 .news-feed__title,
 .news-item__heading,
 .portfolio-card__title {
-  font-family: $display-serif;
   font-weight: 600;
 }
 

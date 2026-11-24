@@ -4,8 +4,6 @@
 
 .news-feed {
   margin-top: 2.5em;
-  padding-top: 1.5em;
-  border-top: 1px solid $border-color;
 
   &__title {
     font-size: $type-size-4;
@@ -29,8 +27,7 @@
   display: flex;
   align-items: flex-start;
   gap: 1.25em;
-  padding: 1.1em 0;
-  border-bottom: 1px solid $border-color;
+  padding: 0.8em 0;
   transition: background 0.15s ease;
 
   &:last-child {
@@ -43,10 +40,7 @@
     font-size: $type-size-7;
     font-family: $sans-serif;
     color: $gray;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
     padding-top: 0.2em;
-    text-align: right;
 
     @include breakpoint(max-width $small) {
       min-width: 70px;
